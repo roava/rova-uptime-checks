@@ -1,5 +1,5 @@
-owner: matthewakinola
-repo: matt-check
+owner: roava
+repo: rova-uptime-checks
 
 sites:
   - name: Rova Dashboard
@@ -13,5 +13,5 @@ sites:
     
  
 status-website:
-  baseUrl: /matt-check
+  baseUrl: /rova-uptime-checks
   
