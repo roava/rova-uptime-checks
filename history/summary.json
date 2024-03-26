@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.dev.getrova.io.ico",
     "slug": "rova-dashboard",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 498,
-    "timeDay": 498,
-    "timeWeek": 498,
-    "timeMonth": 498,
-    "timeYear": 498,
+    "uptime": "75.27%",
+    "uptimeDay": "75.27%",
+    "uptimeWeek": "75.27%",
+    "uptimeMonth": "75.27%",
+    "uptimeYear": "75.27%",
+    "time": 717,
+    "timeDay": 717,
+    "timeWeek": 717,
+    "timeMonth": 717,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 179
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://thissitedoesnotexist.koj.com",
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.com.ico",
     "slug": "test-broken-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.getrova.com.ico",
     "slug": "rova-website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "uptime": "75.26%",
+    "uptimeDay": "75.26%",
+    "uptimeWeek": "75.26%",
+    "uptimeMonth": "75.26%",
+    "uptimeYear": "75.26%",
+    "time": 396,
+    "timeDay": 396,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 179
     }
   },
   {
@@ -68,13 +68,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 505,
-    "timeDay": 505,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "time": 896,
+    "timeDay": 896,
+    "timeWeek": 896,
+    "timeMonth": 896,
+    "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-03-26": 307
+      "2024-03-26": 486
     }
   }
 ]
