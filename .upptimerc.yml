@@ -1,0 +1,15 @@
+owner: matthewakinola
+repo: matt-check
+
+sites:
+  - name: Rova Dashboard
+    url: https://dashboard.dev.getrova.io
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.com
+  - name: Rova Website
+    url: https://dev.getrova.com
+    
+ 
+status-website:
+  baseUrl: /matt-check
+  
