@@ -8,6 +8,8 @@ sites:
     url: https://thissitedoesnotexist.koj.com
   - name: Rova Website
     url: https://dev.getrova.com
+  - name: Rova ArgoCD DEV
+    url: https://argocd.dev.getrova.io
     
  
 status-website:
