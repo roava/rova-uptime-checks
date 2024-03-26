@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 449,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "time": 432,
+    "timeDay": 432,
+    "timeWeek": 432,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Rova ArgoCD DEV",
+    "url": "https://argocd.dev.getrova.io",
+    "icon": "https://icons.duckduckgo.com/ip3/argocd.dev.getrova.io.ico",
+    "slug": "rova-argo-cd-dev",
+    "status": "down",
+    "uptime": "15.13%",
+    "uptimeDay": "15.13%",
+    "uptimeWeek": "15.13%",
+    "uptimeMonth": "15.13%",
+    "uptimeYear": "15.13%",
+    "time": 417,
+    "timeDay": 417,
+    "timeWeek": 417,
+    "timeMonth": 417,
+    "timeYear": 417,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   }
 ]
