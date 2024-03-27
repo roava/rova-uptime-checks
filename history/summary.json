@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.dev.getrova.io.ico",
     "slug": "rova-dashboard",
     "status": "down",
-    "uptime": "72.65%",
-    "uptimeDay": "72.65%",
-    "uptimeWeek": "72.65%",
-    "uptimeMonth": "72.65%",
-    "uptimeYear": "72.65%",
+    "uptime": "69.74%",
+    "uptimeDay": "69.74%",
+    "uptimeWeek": "69.74%",
+    "uptimeMonth": "69.74%",
+    "uptimeYear": "69.74%",
     "time": 717,
     "timeDay": 717,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-03-26": 206
+      "2024-03-27": 7,
+      "2024-03-26": 230
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.com.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.98%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 484,
     "timeDay": 484,
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-27": 7,
+      "2024-03-26": 24
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.getrova.com.ico",
     "slug": "rova-website",
     "status": "down",
-    "uptime": "72.63%",
-    "uptimeDay": "72.63%",
-    "uptimeWeek": "72.63%",
-    "uptimeMonth": "72.63%",
-    "uptimeYear": "72.63%",
+    "uptime": "69.72%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "69.72%",
+    "uptimeMonth": "69.72%",
+    "uptimeYear": "69.72%",
     "time": 396,
     "timeDay": 396,
     "timeWeek": 396,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-03-26": 206
+      "2024-03-27": 7,
+      "2024-03-26": 230
     }
   },
   {
@@ -76,7 +79,8 @@
     "timeMonth": 896,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-03-26": 513
+      "2024-03-27": 7,
+      "2024-03-26": 537
     }
   }
 ]
