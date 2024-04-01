@@ -1,7 +1,7 @@
 url: https://argocd.dev.getrova.io
 status: down
-code: 503
-responseTime: 427
-lastUpdated: 2024-03-31T23:02:35.501Z
+code: 403
+responseTime: 374
+lastUpdated: 2024-04-01T23:02:16.559Z
 startTime: 2024-03-26T15:03:16.282Z
 generator: Upptime <https://github.com/upptime/upptime>
