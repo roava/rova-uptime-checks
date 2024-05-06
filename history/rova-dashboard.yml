@@ -1,7 +1,7 @@
 url: https://dashboard.dev.getrova.io
-status: up
-code: 200
-responseTime: 334
-lastUpdated: 2024-05-06T19:58:03.555Z
+status: down
+code: 503
+responseTime: 385
+lastUpdated: 2024-05-06T20:07:33.739Z
 startTime: 2024-03-26T11:04:06.860Z
 generator: Upptime <https://github.com/upptime/upptime>
